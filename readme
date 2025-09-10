@@ -57,4 +57,4 @@ The goal was to get hands-on experience with:
 
 1. Clone the repository:
 ```bash
-git 
+git remote add origin https://github.com/elshahwey/Iris-perceptron-classifier-.git 
