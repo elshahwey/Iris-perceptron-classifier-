@@ -1,0 +1,60 @@
+Iris Perceptron Classifier 🌸
+
+This is a simple machine learning project where I used the **Perceptron algorithm** to classify the famous **Iris dataset**.
+
+The project was done as part of my learning journey in machine learning. It focuses on implementing and training a basic Perceptron model from scratch (or using `sklearn`) for classification.
+
+---
+
+# 📂 Project Structure
+
+- `iris_perceptron_classifier.ipynb`: Jupyter Notebook with the full implementation
+- (Optional) `requirements.txt`: For dependencies if needed
+
+---
+
+# What the project does
+
+- Loads the Iris dataset ( from  CSV)
+- Preprocesses the features and labels
+- Trains a **Perceptron model** to classify Iris flowers into:
+  - Setosa
+  - Versicolor
+  - Virginica
+- Evaluates the model using accuracy and confusion matrix
+
+---
+
+# 🛠️ Technologies Used
+
+- Python 3.x
+- Jupyter Notebook
+- Scikit-learn
+- NumPy
+- Matplotlib / Seaborn (optional for plots)
+
+---
+
+## 📌 Notes
+
+This is a beginner-friendly project done during my ML learning path.  
+The goal was to get hands-on experience with:
+- Binary vs Multi-class classification
+- Using Perceptron for supervised learning
+- Data preprocessing and evaluation
+
+---
+
+## 🧠 Future Improvements
+
+- Try other classification algorithms (Logistic Regression, SVM)
+- Apply cross-validation
+- Build a simple UI or web app using Streamlit
+
+---
+
+##  How to Run
+
+1. Clone the repository:
+```bash
+git 
